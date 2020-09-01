@@ -1,0 +1,12 @@
+left=
+op()
+add +
+mult *
+sub o
+pow ^
+div /
+rem %
+xor <>
+input in
+output print
+= ->

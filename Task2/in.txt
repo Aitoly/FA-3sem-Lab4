@@ -1,0 +1,5 @@
+myvvar=-125; bgg=2; ccc=bgg*myvvar; print myvvar;
+bg=ccc%ccc;
+bg=1;
+bg=bg;
+print bg;

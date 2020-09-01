@@ -1,0 +1,9 @@
+﻿  Task2.cpp
+C:\Users\Xiaomi\Documents\3 семестр\Lab4\Task2\Task2.cpp(121,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Xiaomi\Documents\3 семестр\Lab4\Task2\Task2.cpp(123,78): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Xiaomi\Documents\3 семестр\Lab4\Task2\Task2.cpp(198,29): warning C4552: '-': result of expression not used
+C:\Users\Xiaomi\Documents\3 семестр\Lab4\Task2\Task2.cpp(355,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Xiaomi\Documents\3 семестр\Lab4\Task2\Task2.cpp(396,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Xiaomi\Documents\3 семестр\Lab4\Task2\Task2.cpp(404,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Xiaomi\Documents\3 семестр\Lab4\Task2\Task2.cpp(112): warning C4715: 'char_to_int': not all control paths return a value
+  Task2.vcxproj -> C:\Users\Xiaomi\Documents\3 семестр\Lab4\Debug\Task2.exe

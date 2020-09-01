@@ -1,0 +1,6 @@
+﻿  Task1.cpp
+C:\Users\Xiaomi\Documents\3 семестр\Lab4\Task1\Task1.cpp(207,6): warning C4101: 't_mass': unreferenced local variable
+C:\Users\Xiaomi\Documents\3 семестр\Lab4\Task1\Task1.cpp(293,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Xiaomi\Documents\3 семестр\Lab4\Task1\Task1.cpp(459,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Xiaomi\Documents\3 семестр\Lab4\Task1\Task1.cpp(256): warning C4715: 'Free': not all control paths return a value
+  Task1.vcxproj -> C:\Users\Xiaomi\Documents\3 семестр\Lab4\Debug\Task1.exe

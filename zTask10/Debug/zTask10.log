@@ -1,0 +1,8 @@
+﻿  Task10.cpp
+C:\Users\Xiaomi\Documents\3 семестр\Lab4\zTask10\Calculator\Calculator.h(241,19): warning C4101: 'res': unreferenced local variable
+C:\Users\Xiaomi\Documents\3 семестр\Lab4\zTask10\Calculator\Tree.h(103): warning C4715: 'SearchByKey': not all control paths return a value
+C:\Users\Xiaomi\Documents\3 семестр\Lab4\zTask10\Calculator\stackOFtrees.h(74): warning C4715: 'Top_stack_trees': not all control paths return a value
+C:\Users\Xiaomi\Documents\3 семестр\Lab4\zTask10\Calculator\stack.h(74): warning C4715: 'Top_stack': not all control paths return a value
+C:\Users\Xiaomi\Documents\3 семестр\Lab4\zTask10\Calculator\Calculator.h(44): warning C4715: 'PRIOR': not all control paths return a value
+C:\Users\Xiaomi\Documents\3 семестр\Lab4\zTask10\Calculator\Calculator.h(84): warning C4715: 'Simple_Bin_Calculator': not all control paths return a value
+  zTask10.vcxproj -> C:\Users\Xiaomi\Documents\3 семестр\Lab4\Debug\zTask10.exe

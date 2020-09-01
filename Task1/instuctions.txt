@@ -1,0 +1,5 @@
+Load A, in1.txt;
+Sort A+;
+Print A, all;
+Remove A, 0, 2;
+Print A, all;

@@ -1,0 +1,3 @@
+﻿  Task5.cpp
+C:\Users\Xiaomi\Documents\3 семестр\Lab4\Task5\Tree.h(80): warning C4715: 'SearchByKey': not all control paths return a value
+  Task5.vcxproj -> C:\Users\Xiaomi\Documents\3 семестр\Lab4\Debug\Task5.exe

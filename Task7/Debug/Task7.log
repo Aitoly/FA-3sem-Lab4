@@ -1,0 +1,15 @@
+﻿  Task7.cpp
+C:\Users\Xiaomi\Documents\3 семестр\Lab4\Task7\Task7.cpp(71,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Xiaomi\Documents\3 семестр\Lab4\Task7\Task7.cpp(270,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Xiaomi\Documents\3 семестр\Lab4\Task7\Task7.cpp(272,9): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Xiaomi\Documents\3 семестр\Lab4\Task7\Task7.cpp(297,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Xiaomi\Documents\3 семестр\Lab4\Task7\Task7.cpp(313,11): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Xiaomi\Documents\3 семестр\Lab4\Task7\Task7.cpp(326,11): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Xiaomi\Documents\3 семестр\Lab4\Task7\Task7.cpp(428,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Xiaomi\Documents\3 семестр\Lab4\Task7\Task7.cpp(506,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Xiaomi\Documents\3 семестр\Lab4\Task7\Task7.cpp(674,11): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Xiaomi\Documents\3 семестр\Lab4\Task7\Task7.cpp(767,38): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\Xiaomi\Documents\3 семестр\Lab4\Task7\Task7.cpp(767,38): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\Xiaomi\Documents\3 семестр\Lab4\Task7\Tree7.h(82): warning C4715: 'SearchByKey': not all control paths return a value
+C:\Users\Xiaomi\Documents\3 семестр\Lab4\Task7\Task7.cpp(390): warning C4715: 'Simple_Calculator': not all control paths return a value
+  Task7.vcxproj -> C:\Users\Xiaomi\Documents\3 семестр\Lab4\Debug\Task7.exe
